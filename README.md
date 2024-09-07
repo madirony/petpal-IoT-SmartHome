@@ -15,32 +15,32 @@
         <td align="center" width="150px">
             <a href="https://github.com/CactusKK"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/96397822?v=4"/></a>
             <br />
-            <a href="https://github.com/CactusKK">👑김태범</a>
+            <a href="https://github.com/CactusKK">👑CactusKK</a>
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79959903?v=4"/></a>
+            <a href="https://github.com/"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139421269?v=4"/></a>
             <br />
-            <a href="https://github.com/">김승배</a>
+            <a href="https://github.com/">KSB</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/youngjoo0108"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139421269?v=4"/></a>
             <br />
-            <a href="https://github.com/youngjoo0108">송영주</a>
+            <a href="https://github.com/youngjoo0108">youngjoo0108</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/jsong98"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79959903?v=4"/></a>
             <br />
-            <a href="https://github.com/jsong98">송준석</a>
+            <a href="https://github.com/jsong98">jsong98</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/qhdrnak"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/64765972?v=4"/></a>
             <br />
-            <a href="https://github.com/qhdrnak">김봉균</a>
+            <a href="https://github.com/qhdrnak">qhdrnak</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/madirony"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48685874?v=4"/></a>
             <br />
-            <a href="https://github.com/madirony">연정흠</a>
+            <a href="https://github.com/madirony">madirony</a>
         </td>
       <tr height="50px">
         <td align="center">
